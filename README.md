@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working towards becoming a **Java Backend Developer**.  
 - 🌱 I’m actively learning **Java, Spring, Spring Boot, MySQL**.  
-- 📫 How to reach me: **[amansde0507@gmail.com](mailto:amansde0507@gmail.com)**  
+- 📫 How to reach me: **[amankumar5799@gmail.com](mailto:amankumar5799@gmail.com)**  
 - ⚡ Fun fact: *I’m a lifelong learner and curious problem-solver.*  
 
 ---
